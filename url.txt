@@ -1,1 +1,1 @@
-https://visualisasidata-wildannrm.streamlit.app/
+https://wildannur-visualisasidata.streamlit.app/
